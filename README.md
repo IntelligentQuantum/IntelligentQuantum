@@ -43,4 +43,4 @@
 [github]: https://github.com/IntelligentQuantum
 [instagram]: https://instagram.com/IntelligentQuantum
 [telegram]: https://t.me/IntelligentQuantum
-[protonmail]: IntelligentQuantum@ProtonMail.Com
+[protonmail]: mailto:IntelligentQuantum@ProtonMail.Com
