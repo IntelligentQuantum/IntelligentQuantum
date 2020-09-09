@@ -39,6 +39,9 @@
 
 ![IntelligentQuantum's github stats](https://github-readme-stats.vercel.app/api?username=IntelligentQuantum&show_icons=true)
 
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intelligentquantum&layout=compact)
 
 [github]: https://github.com/IntelligentQuantum
 [instagram]: https://instagram.com/IntelligentQuantum
