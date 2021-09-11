@@ -9,7 +9,7 @@
 <div>   
     <a href="mailto:IntelligentQuantum@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="IntelligentQuantum-ProtonMail"></a>
     <a href="https://www.Instagram.com/IntelligentQuantum/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="IntelligentQuantum-Instagram"></a>
-    <a href="https://www.Instagram.com/IntelligentQuantum/" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F0DB4F" alt="IntelligentQuantum-Instagram"></a>
+    <a href="https://discord.com/users/550013353171484682" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F0DB4F" alt="IntelligentQuantum-Discord"></a>
 </div>
 
 <h2>:label: Github Stats</h2>
