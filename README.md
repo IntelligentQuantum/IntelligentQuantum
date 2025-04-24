@@ -1,39 +1,100 @@
-## :sunglasses: I'm Hamed
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I'm a Gamer
+<div align="center">
+  <h1>🚀 Welcome to IntelligentQuantum's GitHub! 🧠</h1>
+  <p>
+    <strong>Quantum-Powered Developer | Crafting Web3, Social Media, MMORPGs, and AI</strong>
+  </p>
+  <p>
+    I’m a passionate software engineer building decentralized **Web3 applications**, interactive **social media platforms**, immersive **MMORPGs** from scratch, and intelligent **AI networks**. My toolkit includes <b>C++</b>, <b>TypeScript</b>, <b>JavaScript</b>, <b>Angular</b>, <b>Node.js</b>, <b>NestJS</b>, and <b>Next.js</b>. Let’s shape the future of the web and gaming together!
+  </p>
 
-<h2>📃 Contact</h2>
-
-<div>   
-    <a href="mailto:IntelligentQuantum@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="IntelligentQuantum-ProtonMail"></a>
-    <a href="https://www.Instagram.com/IntelligentQuantum/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="IntelligentQuantum-Instagram"></a>
-    <a href="https://discord.com/users/550013353171484682" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=F0DB4F" alt="IntelligentQuantum-Discord"></a>
-    <br><br>
-    <img alt="IntelligentQuantum-Discord" src="https://discord.c99.nl/widget/theme-2/550013353171484682.png" />
+  <img src="https://img.shields.io/badge/Code-Quantum%20Ready-blueviolet?style=for-the-badge" alt="Quantum Ready Badge" />
+  <img src="https://img.shields.io/github/followers/IntelligentQuantum?label=Follow&style=social" alt="GitHub Followers" />
 </div>
 
-<h2>:label: Github Stats</h2>
+---
 
-<div>
-    <a href="#"><img alt="IntelligentQuantum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelligentQuantum&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelligentQuantum&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=IntelligentQuantum&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="IntelligentQuantum's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=intelligentquantum&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
+## 🌟 About Me
+
+- 🔭 I’m currently focused on **Web3 development**, **social media platforms**, and **custom MMORPG frameworks** with AI-driven features.
+- 🌱 I’m diving deeper into **blockchain technologies** for Web3, **real-time social media systems** with TypeScript, and **low-level networking** with C++ for MMORPGs.
+- 💡 I’m passionate about creating **decentralized apps**, **engaging social experiences**, **engine-free MMORPGs**, and **neural networks** for dynamic systems.
+- ⚡ Fun fact: I envision combining quantum computing with Web3 and AI to revolutionize gaming and decentralized networks!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js" />
 </div>
 
-<h2>⚡ Skills</h2>
+---
 
-| # | # | # | # |
-| :------------ | :--------------- | :----- | :----- |
-| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=Redis&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MariaDB-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=windows&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-LESS-0D1117?style=flat-square&logo=less&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Deno.js-0D1117?style=flat-square&logo=Deno&logoColor=F0DB4F"> | # | # | # |
-| <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c&logoColor=F0DB4F"> | # | # | # |
+## 🌐 My Passions
+
+- **Web3 Development**: I’m excited about building **decentralized applications** using blockchain technologies, smart contracts, and Web3 libraries (e.g., Web3.js, ethers.js) to create secure, user-owned ecosystems.
+- **Social Media Platforms**: I love developing **real-time, interactive social media applications** with TypeScript, Angular, and Next.js, focusing on user engagement and scalable backends with NestJS.
+- **MMORPG Development**: I create **Massively Multiplayer Online Role-Playing Games** from scratch using **C++** for server-side networking and performance, and **JavaScript/TypeScript** for browser-based gameplay, without game engines.
+- **AI Networks**: I’m fascinated by **neural networks** and **machine learning models** to power intelligent NPCs in MMORPGs, enhance social media analytics, and support Web3 applications.
+
+---
+
+## 🔍 What I’m Working On
+
+- 🌐 Developing **Web3 dApps** with TypeScript and Node.js, integrating blockchain for decentralized social features and gaming economies.
+- 📱 Building **real-time social media platforms** using Angular and Next.js, with NestJS for scalable APIs and user interactions.
+- 🎮 Creating a **custom MMORPG framework** with C++ for server-side logic and TypeScript for client-side interactivity, featuring persistent worlds and AI-driven gameplay.
+- 🧠 Experimenting with **AI neural networks** for adaptive MMORPG NPCs, social media analytics, and Web3 user behavior prediction.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IntelligentQuantum&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelligentQuantum&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+My current projects are private, but I’m actively working on innovative **Web3 applications**, **social media platforms**, **MMORPG frameworks**, and **AI-driven systems**. Want to collaborate on decentralized apps, social media features, or multiplayer gaming? Reach out to discuss exciting opportunities!
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+  <a href="https://linkedin.com/in/IntelligentQuantum">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:IntelligentQuantum@Gmail.Com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/cAXjGzFr6g">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://x.com/IntelligentQM">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <br />
+  <img alt="IntelligentQuantum-Discord" src="https://discord.c99.nl/widget/theme-1/550013353171484682.png" />
+</div>
+
+---
+
+## 🤝 Contributing
+
+I’m open to collaboration on **Web3 dApps**, **social media platforms**, **MMORPG development**, and **AI projects**! If you have ideas for blockchain integration, real-time social features, or custom multiplayer systems, reach out via Discord or email.
+
+<div align="center">
+  <p><b>Let’s build decentralized worlds, connected communities, and intelligent systems, one quantum leap at a time! 🌌</b></p>
+</div>
